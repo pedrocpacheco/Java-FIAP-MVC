@@ -1,4 +1,6 @@
-## Getting Started
+## Java FIAP MVC
+
+🚗 An MVC example Project made with my Java Teacher in FIAP to learn the concepts of this pattern
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
